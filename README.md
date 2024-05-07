@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/anbelche)](https://leetcode.com/anbelche)
 <!--
 **andrew-belcher/andrew-belcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
